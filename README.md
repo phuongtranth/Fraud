@@ -9,7 +9,7 @@ The dataset is attached above is dataset about customer base of an e-commerce co
 | Churn                        | Churn Flag                                                   |
 | Tenure                       | Tenure of customer in organization                           |
 | PreferredLoginDevice         | Preferred login device of customer                           |
-| CityTier                     | City tier (1,2,3): miền                                      |
+| CityTier                     | City tier (1,2,3)                                            |
 | WarehouseToHome              | Distance in between warehouse to home of customer            |
 | PreferPaymentMethod          | PreferredPaymentMode Preferred payment method of customer    |
 | Gender                       | Gender of customer                                           |
